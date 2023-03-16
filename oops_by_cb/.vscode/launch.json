@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Persion_Client",
+            "request": "launch",
+            "mainClass": "Persion_Client",
+            "projectName": "oops_by_cb_82384524"
+        },
+        {
+            "type": "java",
+            "name": "student_client",
+            "request": "launch",
+            "mainClass": "student_client",
+            "projectName": "oops_by_cb_82384524"
+        }
+    ]
+}
